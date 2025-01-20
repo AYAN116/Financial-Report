@@ -2,6 +2,8 @@
 
 This project showcases an interactive Power BI dashboard designed to provide a detailed analysis of sales and profit across various segments and products. The dashboard offers a comprehensive overview of the financial performance and trends, aiding stakeholders in making data-driven decisions.
 
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDQ5ODhjZGEtYWEwOS00NjczLWIwYjQtM2MxMmM3NzQzNDgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=d23503e1d77a5efda6ce)
+
 # Features:
 
 Segmental Report:
